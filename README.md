@@ -10,3 +10,24 @@ Repository for Data Mining and Data Preprocessing, MSc in Applied Statistics, KK
 - Final Exam                    10%
 
 85% -> A, 80% ->B+, 70% ->B ... <50%->F
+
+### Chapter I
+
+### Chapter II
+
+### Chapter III
+
+### Chapter IV
+
+### Chapter V
+
+### Chapter VI
+
+### ✨Qize⚡️
+
+### Mini Project
+
+### Midterm Exam
+
+### Final Exam
+
