@@ -53,7 +53,7 @@ Repository for Data Mining and Data Preprocessing, MSc in Applied Statistics, KK
 - Homework 5 [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/Classification.ipynb)
 - Homework 6 [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/Classification_HW6.ipynb)
 
-### Chapter VI (Clustering)📓
+### Chapter VI (Clustering) 📔
 - Lecture Note [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/Clustering.pdf)
 
 ### Mini Project 📚
