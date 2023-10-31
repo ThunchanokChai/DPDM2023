@@ -1,13 +1,12 @@
 # DPDM2023
 Repository for Data Mining and Data Preprocessing, MSc in Applied Statistics, KKU
 
-## Thunchanok Chaitongdee 6650200119
+## Thunchanok Chaitongdee 665020011-9
 
-- Coding project                30%
-- Research project              10%
+- Research project              20%
 - Programming Assignment        40%
 - Midterm Exam                  10%
-- Final Exam                    10%
+- Final Exam                    30%
 
 85% -> A, 80% ->B+, 70% ->B ... <50%->F
 
@@ -48,6 +47,7 @@ Repository for Data Mining and Data Preprocessing, MSc in Applied Statistics, KK
   - DecisionTree
   - Naive Bayes
   - Random Forest
+  - KNN
 - Lecture Note [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/Classification.pdf)
 - Homework 4 [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/HW4.ipynb)
 - Homework 5 [Click Link](https://github.com/ThunchanokChai/DPDM2023/blob/main/Classification.ipynb)
