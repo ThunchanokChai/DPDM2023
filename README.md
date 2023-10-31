@@ -11,23 +11,23 @@ Repository for Data Mining and Data Preprocessing, MSc in Applied Statistics, KK
 
 85% -> A, 80% ->B+, 70% ->B ... <50%->F
 
-### Chapter I
+### Chapter I 📕
 
-### Chapter II
+### Chapter II 📗
 
-### Chapter III
+### Chapter III 📘
 
-### Chapter IV
+### Chapter IV 📙
 
-### Chapter V
+### Chapter V 📔
 
-### Chapter VI
+### Chapter VI 📓
 
-### ✨Qize⚡️
+### Qize ⚡️
 
-### Mini Project
+### Mini Project 📚
 
-### Midterm Exam
+### Midterm Exam 🫨
 
-### Final Exam
+### Final Exam 😵‍💫
 
